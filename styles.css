@@ -12,7 +12,7 @@ body{
     background-color: black;
 }
 
-.line{
+.row{
     display: flex;
     flex-direction: row;
 }

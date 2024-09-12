@@ -1,2 +1,2 @@
 # tris
-trist
+ https://paunpaun.github.io/tris/

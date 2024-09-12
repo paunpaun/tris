@@ -1,0 +1,25 @@
+body{
+    background-color: #333333;
+}
+#pagina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#griglia{
+    background-color: black;
+}
+
+.riga{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    background-color: #F8F8FF;
+    min-height: 70px;
+    min-width: 70px;
+    margin: 5px;
+}

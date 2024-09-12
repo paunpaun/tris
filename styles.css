@@ -1,18 +1,18 @@
 body{
     background-color: #333333;
 }
-#pagina{
+#main-page{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
 }
 
-#griglia{
+#grid{
     background-color: black;
 }
 
-.riga{
+.line{
     display: flex;
     flex-direction: row;
 }
